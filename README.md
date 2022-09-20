@@ -16,7 +16,7 @@ Goal: The bank has commissioned the development of a machine learning model that
 
 ## The Data
 
-The project uses the German Credit dataset, sourced from the UCI Machine Learning Repository [link](https://archive.ics.uci.edu/ml/datasets/South+German+Credit) and which can be found in  `german_credit.csv` in the data folder in this repo. The description of the column names can be found in the repo's Jupyter Notebook. The dataset has 1,000 records and 21 variables with continuous and categorical data.
+The project uses the German Credit dataset, sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/South+German+Credit) and which can be found in  `german_credit.csv` in the data folder in this repo. The description of the column names can be found in the repo's Jupyter Notebook. The dataset has 1,000 records and 21 variables with continuous and categorical data.
 
 ## Methods
 The analysis utilizes descriptive data analysis and descriptive statistics, in addition to machine learning modeling.
