@@ -34,4 +34,4 @@ The model determines the most important features to be related to checking accou
 Further analysis should seek to evaluate model performance against bank's existing, traditional credit risk assessment tools and processes.  
 
 ## More Information
-See the full analysis in the [Jupyter Notebook](https://github.com/magalisolimano/classification-of-credit/blob/main/notebook.ipynb) or review the [presentation](https://github.com/magalisolimano/classification-of-credit/blob/master/presentation_phase3.pdf). For additional information, contact Magali Solimano at magali.solimano@gmail.com.
+See the full analysis in the [Jupyter Notebook](https://github.com/magalisolimano/classification-of-credit/blob/master/notebook.ipynb) or review the [presentation](https://github.com/magalisolimano/classification-of-credit/blob/master/presentation_phase3.pdf). For additional information, contact Magali Solimano at magali.solimano@gmail.com.
