@@ -30,8 +30,25 @@ The model determines the most important features to be related to checking accou
 
 ![feature_importance](./images/feature_importance.png)
 
+## Recommendations
+The selected model indicates that the bank should make loans to borrowers who have:
+- some balance in their account
+- paid back credits on time
+- other existing credits outstanding
+
+The bank should also make loans that have:
+- average balance of $3000
+- average duration of 19 months
+
 ## Next Steps
-Further analysis should seek to evaluate model performance against bank's existing, traditional credit risk assessment tools and processes.  
+Further analysis should seek to evaluate model performance against bank's existing, traditional credit risk assessment tools and processes. It should also seek to reduce model bias.  
 
 ## More Information
 See the full analysis in the [Jupyter Notebook](https://github.com/magalisolimano/classification-of-credit/blob/master/notebook.ipynb) or review the [presentation](https://github.com/magalisolimano/classification-of-credit/blob/master/presentation_phase3.pdf). For additional information, contact Magali Solimano at magali.solimano@gmail.com.
+
+## Repository Structure
+├── data
+├── images
+├── README.md
+├── notebook.ipynb
+├── presentation_phase3.pdf
