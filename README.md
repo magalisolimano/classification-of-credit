@@ -48,8 +48,10 @@ See the full analysis in the [Jupyter Notebook](https://github.com/magalisoliman
 
 
 ## Repository Structure
-├── data
-├── images
-├── README.md
-├── notebook.ipynb
-├── presentation_phase3.pdf
+'''bash
+├── [data] (https://github.com/magalisolimano/classification-of-credit/tree/master/data)
+├── [images] (https://github.com/magalisolimano/classification-of-credit/tree/master/images)
+├── [README.md] (https://github.com/magalisolimano/classification-of-credit/blob/master/README.md)
+├── [notebook.ipynb] (https://github.com/magalisolimano/classification-of-credit/blob/master/notebook.ipynb)
+├── [presentation_phase3.pdf] (https://github.com/magalisolimano/classification-of-credit/blob/master/presentation_phase3.pdf)
+'''
