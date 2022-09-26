@@ -49,9 +49,9 @@ See the full analysis in the [Jupyter Notebook](https://github.com/magalisoliman
 
 ## Repository Structure
 ```
-├── README.md
 ├── data
 ├── images
+├── README.md
 ├── notebook.ipynb
 └── presentation_phase3.pdf
 ```
