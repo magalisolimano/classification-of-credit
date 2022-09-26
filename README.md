@@ -46,6 +46,7 @@ Further analysis should seek to evaluate model performance against bank's existi
 ## More Information
 See the full analysis in the [Jupyter Notebook](https://github.com/magalisolimano/classification-of-credit/blob/master/notebook.ipynb) or review the [presentation](https://github.com/magalisolimano/classification-of-credit/blob/master/presentation_phase3.pdf). For additional information, contact Magali Solimano at magali.solimano@gmail.com.
 
+
 ## Repository Structure
 ├── data
 ├── images
