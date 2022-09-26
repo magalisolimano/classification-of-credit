@@ -48,7 +48,7 @@ See the full analysis in the [Jupyter Notebook](https://github.com/magalisoliman
 
 
 ## Repository Structure
-'''bash
+'''
 ├── [data] (https://github.com/magalisolimano/classification-of-credit/tree/master/data)
 ├── [images] (https://github.com/magalisolimano/classification-of-credit/tree/master/images)
 ├── [README.md] (https://github.com/magalisolimano/classification-of-credit/blob/master/README.md)
